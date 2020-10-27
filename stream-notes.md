@@ -20,5 +20,10 @@ that_KCA - cheap(ish) camera with NDI out: https://www.bestbuy.com/site/mevo-sta
 
 - dota2attitude - draw.io is DA BOMB for HTML/Website wireframes
 
-# 2020-10-15
+# 2020-10-27
 
+- nyx - check out cranelift. new rust compiler, 20-30x faster build/debug times
+- RhodeCOOOOODE https://rhodecode.com
+- rotide line based editor: https://github.com/carstenkj02/rotide
+- nyx: https://masterpassword.app/ (how it works: https://masterpassword.app/what/)
+- erik: callowcreation on twitch
