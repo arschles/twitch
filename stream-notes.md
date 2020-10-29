@@ -27,3 +27,7 @@ that_KCA - cheap(ish) camera with NDI out: https://www.bestbuy.com/site/mevo-sta
 - rotide line based editor: https://github.com/carstenkj02/rotide
 - nyx: https://masterpassword.app/ (how it works: https://masterpassword.app/what/)
 - erik: callowcreation on twitch
+
+# 2020-10-28
+
+- experimental generators in Rust: https://github.com/rust-lang/rust/issues/43122
