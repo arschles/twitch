@@ -31,3 +31,8 @@ that_KCA - cheap(ish) camera with NDI out: https://www.bestbuy.com/site/mevo-sta
 # 2020-10-28
 
 - experimental generators in Rust: https://github.com/rust-lang/rust/issues/43122
+
+# 2020-10-30
+
+- LordMZTE - https://github.com/LordMZTE/bf-rs -tokenizing brainfuck interpreter in rust
+- Rockerboo - https://github.com/rockerBOO/twitch_discovery - twitch discovery
